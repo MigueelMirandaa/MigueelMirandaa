@@ -11,9 +11,9 @@
 
 <p align = "center">
  
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MigueeeelSm) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/migueelmirandaa) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/migueelmirandaa/)
-[![Visits Badge](https://badges.pufler.dev/visits/MiguelMiranda/MiguelMiranda?style=for-the-badge)](https://discord.gg/invite/locksershop)
+[![Visits Badge](https://badges.pufler.dev/visits/MiguelMiranda/MiguelMiranda?style=for-the-badge)](https://discord.miguelmiranda.dev)
 
 </p>
 
