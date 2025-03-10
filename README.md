@@ -1,12 +1,11 @@
-<h1><p align="center">Hello, I'm Lockser! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hello, I'm Miguel Miranda! <a href="https://miguelmiranda.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-<p align="center">I'm a student developer.<br/>I specialize in Lua, FiveM Development.<br> I also love writing Code, Graphic Design etc.<br></p>
-
+<p align="center">I'm a student developer.<br/>I specialize in Lua, FiveM Development.<br> I also love writing Code, Graphic Design, and more.<br></p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I'm working on FiveM Development.
-- 💬 Im currently learning.
+- 🔭 I'm working on FiveM Development and various other projects.
+- 💬 I'm currently learning new programming languages and technologies.
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **My Socials:**
 
@@ -14,7 +13,7 @@
  
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MigueeeelSm) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/migueelmirandaa/)
-[![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://discord.gg/invite/locksershop)
+[![Visits Badge](https://badges.pufler.dev/visits/MiguelMiranda/MiguelMiranda?style=for-the-badge)](https://discord.gg/invite/locksershop)
 
 </p>
 
@@ -22,8 +21,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LockserOficial&theme=dark&show_icons=true&hide_border=true&count_private=false" style="display: inline-block; width: 45%; height: 200px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LockserOficial&theme=dark&hide_border=true" style="display: inline-block; width: 48%; height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelMiranda&theme=dark&show_icons=true&hide_border=true&count_private=false" style="display: inline-block; width: 45%; height: 200px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelMiranda&theme=dark&hide_border=true" style="display: inline-block; width: 48%; height: 200px;">
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Languages:**
