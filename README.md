@@ -1,9 +1,5 @@
 # ¡Hola, soy Miguel! 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
-</div>
-
 ## 💻 Sobre mí
 Soy un desarrollador apasionado especializado en múltiples áreas del desarrollo de software. Me encanta crear experiencias interactivas y soluciones que mejoren la vida de las personas a través de la tecnología.
 
